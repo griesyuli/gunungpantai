@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>gunungpantai.com - Tugas Semantic Web kelompok : Kami</title>
+    <title>gunungpantai.com - Tugas Semantic Web kelompok : Kami        -MIK UI 2018-</title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?php echo base_url("bootstrap/vendor/bootstrap/css/bootstrap.min.css"); ?>"
