@@ -9,5 +9,6 @@ class Beranda extends CI_Controller {
 		$this->load->view('template/header');
 		$this->load->view('beranda'); //ganti dengan ('beranda', $data);
 		$this->load->view('template/footer');
+		$this->load->library('Rdf');
 	}
 }
